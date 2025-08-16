@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+numpy
+python-dateutil
+openai  # optional: only if you want AI with OpenAI API key
